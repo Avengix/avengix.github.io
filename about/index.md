@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: about
 title: About
 permalink: /about/
 ---
@@ -33,3 +33,4 @@ These are things I have experience with but wouldn't consider myself an expert i
 * Python
 * Java
 * Ruby
+* PHP
