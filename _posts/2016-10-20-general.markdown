@@ -4,7 +4,7 @@ title: General
 date:   2016-10-20 12:56:20 -0700
 categories: jekyll update
 ---
-This would probably fit better in a blog, but the following is a generalization of things I’ve done and what I’ve learned from it. 
+This would probably fit better in a blog post, but the following is a generalization of things I’ve done and what I’ve learned from it. 
 
 I’ve done several small  projects using different technologies like React Native, .NET, and Unity3d. I even taught a course on C++! But the thing is, it's cool knowing multiple frameworks and languages, but learning frameworks and languages is the easy part of programming. What seems to be overlooked a lot are design patterns and clean code. Or in other words, the ability to reduce complexity. Any framework question can be Googled, good design decisions and clean code can't. These skills can only be mastered with time and experience but they can be applied anywhere. Well, most of the time.
 
