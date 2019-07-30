@@ -19,7 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Portfolio website for Alex Ford.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: alexford1337
+twitter_username: _AlexFord_
 github_username:  avengix
 name: Alex Ford
 
