@@ -13,13 +13,10 @@ These are the skills I've used the most in the last couple years. Mostly web tec
 * JavaScript
 * HTML 5
 * CSS
-* React.js
-* Meteor.js
+* React
+* Vue
 * Node.js
-* Angular.js
 * jQuery
-* MongoDB
-* Unity Game Engine
 
 ##### Other Skills
 These are things I have experience with but wouldn't consider myself an expert in them.
@@ -30,7 +27,5 @@ These are things I have experience with but wouldn't consider myself an expert i
 * C/C++
 * C#
 * SQL
-* Python
-* Java
-* Ruby
 * PHP
+* Elixir
